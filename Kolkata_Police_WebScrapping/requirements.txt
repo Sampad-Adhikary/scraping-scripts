@@ -1,0 +1,7 @@
+playwright
+beautifulsoup4
+pandas
+lxml
+requests
+python-dotenv
+colorlog
